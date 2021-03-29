@@ -17,6 +17,8 @@ const Prueba = () => {
                 </div>
                 <div className="container">
                     <h2>hola</h2>
+                    <h2>hola</h2>
+                    <h2>hola</h2>
                 </div>
             </table>
         </div>
